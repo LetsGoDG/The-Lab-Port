@@ -1,2 +1,2 @@
-# The-Lab-Port
-A portfolio accumulation of lab tasks and projects. Thank you for your consideration and interest.
+# The-Curiosity-Lab-Port
+A accumulation of lab tasks, projects, and general curiosity test cases created by DG.
